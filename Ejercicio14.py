@@ -8,6 +8,6 @@ r = a
 a = b
 b = r
 
+print(f"Después del intercambio:")
 print(f"a = {a}")
 print(f"b = {b}")
-print(f"Después del intercambio:")
